@@ -2,6 +2,8 @@ const express = require("express")
 const app = express()
 const cors = require("cors")
 const fs = require("fs")
+const path = require('path'); 
+
 
 const corsOptions = {
   origin: "*",
@@ -20,8 +22,11 @@ const Event = require("./model/event.model")
 
 initializeDatabase()
 
-const jsonData = fs.readFileSync("events.json", "utf-8")
-const eventsData = JSON.parse(jsonData)
+const eventsPath = path.join(__dirname, 'events.json');
+console.log("Reading events from:", eventsPath);
+const eventsData = fs.readFileSync(eventsPath, 'utf-8');
+
+
 
 function  seedEventsData(){
     try{

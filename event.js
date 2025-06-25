@@ -56,7 +56,7 @@ function  seedEventsData(){
     }
 }
 
-seedEventsData()
+//seedEventsData()
 
 async function CreateNewEvent(newEvent){
     try{

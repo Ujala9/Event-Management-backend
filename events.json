@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Marketing Seminar",
+    "type": "offline",
+    "date": "2025-08-15",
+    "startTime": "10:00 AM",
+    "endTime": "12:00 PM",
+    "price": 3000,
+    "location": "789 Marketing Avenue, City",
+    "meetingLink": "",
+    "description": "Join marketing experts to explore the latest digital strategies and innovations shaping the future of marketing.",
+    "speakers": [
+      {
+        "name": "Sarah Johnson",
+        "role": "Marketing Manager",
+        "image": "https://randomuser.me/api/portraits/women/1.jpg"
+      },
+      {
+        "name": "Michael Brown",
+        "role": "SEO Specialist",
+        "image": "https://randomuser.me/api/portraits/men/2.jpg"
+      }
+    ],
+    "dressCode": "Smart casual",
+    "ageRestriction": "18 and above",
+    "tags": ["marketing", "digital"],
+    "image": "https://via.placeholder.com/600x300?text=Marketing+Seminar"
+  },
+  {
+    "title": "Web3 Conference",
+    "type": "online",
+    "date": "2025-07-10",
+    "startTime": "3:00 PM",
+    "endTime": "5:00 PM",
+    "price": 0,
+    "location": "",
+    "meetingLink": "https://zoom.us/web3conf",
+    "description": "A deep dive into decentralized apps, NFTs, and blockchain development trends for 2025.",
+    "speakers": [
+      {
+        "name": "Lena Gupta",
+        "role": "Blockchain Engineer",
+        "image": "https://randomuser.me/api/portraits/women/3.jpg"
+      }
+    ],
+    "dressCode": "Casual",
+    "ageRestriction": "All ages",
+    "tags": ["web3", "blockchain", "crypto"],
+    "image": "https://via.placeholder.com/600x300?text=Web3+Conference"
+  },
+  {
+    "title": "ReactJS Bootcamp",
+    "type": "offline",
+    "date": "2025-09-01",
+    "startTime": "9:00 AM",
+    "endTime": "6:00 PM",
+    "price": 5000,
+    "location": "Tech Park Auditorium, Bengaluru",
+    "meetingLink": "",
+    "description": "Hands-on React bootcamp covering hooks, routing, state management, and deployment best practices.",
+    "speakers": [
+      {
+        "name": "Kiran Rao",
+        "role": "Frontend Developer",
+        "image": "https://randomuser.me/api/portraits/men/4.jpg"
+      }
+    ],
+    "dressCode": "Casual",
+    "ageRestriction": "16 and above",
+    "tags": ["react", "frontend", "bootcamp"],
+    "image": "https://via.placeholder.com/600x300?text=React+Bootcamp"
+  },
+  {
+    "title": "Mental Health Awareness Webinar",
+    "type": "online",
+    "date": "2025-10-12",
+    "startTime": "6:00 PM",
+    "endTime": "7:30 PM",
+    "price": 0,
+    "location": "",
+    "meetingLink": "https://meet.google.com/mental-health",
+    "description": "An open discussion on maintaining mental health in a fast-paced digital world, featuring therapists and life coaches.",
+    "speakers": [
+      {
+        "name": "Ayesha Verma",
+        "role": "Psychologist",
+        "image": "https://randomuser.me/api/portraits/women/5.jpg"
+      }
+    ],
+    "dressCode": "Comfortable",
+    "ageRestriction": "16 and above",
+    "tags": ["health", "mental", "wellness"],
+    "image": "https://via.placeholder.com/600x300?text=Mental+Health+Webinar"
+  },
+  {
+    "title": "Startup Funding 101",
+    "type": "offline",
+    "date": "2025-11-05",
+    "startTime": "11:00 AM",
+    "endTime": "1:00 PM",
+    "price": 1000,
+    "location": "Startup Hub, Delhi",
+    "meetingLink": "",
+    "description": "Learn how to pitch, raise funds, and understand investor expectations from experienced startup founders and VCs.",
+    "speakers": [
+      {
+        "name": "Ravi Mehta",
+        "role": "Venture Capitalist",
+        "image": "https://randomuser.me/api/portraits/men/6.jpg"
+      }
+    ],
+    "dressCode": "Formal",
+    "ageRestriction": "18 and above",
+    "tags": ["startup", "funding", "business"],
+    "image": "https://via.placeholder.com/600x300?text=Startup+Funding"
+  }
+]
